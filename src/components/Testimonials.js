@@ -95,7 +95,7 @@ function Testimonials(){
                 <div className="testimonialContainer">
                     <img src={testim4} alt=""/>
                     <div className="satatement">
-                        <h2>“Kina is an amazin photographer, she got everything I wanted and took her time when taking the photos and turned out beautiful! I had an amazing experience. You won't regret working with Kina she does beautiful work and good with detail”</h2>
+                        <h2>“Kina is an amazing photographer, she got everything I wanted and took her time when taking the photos and turned out beautiful! I had an amazing experience. You won't regret working with Kina she does beautiful work and good with detail”</h2>
                         <h2>-Julia</h2>
                     </div>
                 </div>

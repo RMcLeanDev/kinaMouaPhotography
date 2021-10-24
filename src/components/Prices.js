@@ -24,19 +24,19 @@ function Prices(){
                     <h2>MINI PACKAGE</h2>
                     <h3>$150 with 50% deposit</h3>
                     <h3>30 minute session, 1 outfit, 1 location</h3>
-                    <h3>10+ fully edited photos</h3>
+                    <h3>Gallery of edited photos!</h3>
                 </div>
                 <div className="package">
                     <h2>STANDARD PACKAGE</h2>
                     <h3>$250 with 50% deposit</h3>
                     <h3>1 hour session, 2 outfits, 1 location</h3>
-                    <h3>15+ fully edited photos</h3>
+                    <h3>Gallery of edited photos!</h3>
                 </div>
                 <div className="package">
                     <h2>PLATINUM PACKAGE</h2>
                     <h3>$400 with 50% deposit</h3>
                     <h3>2-3 hour session, 3 outfits 2 locations</h3>
-                    <h3>25+ fully edited photos</h3>
+                    <h3>Gallery of edited photos!</h3>
                 </div>
             </div>
             <div className="packagesContainer">
@@ -45,7 +45,7 @@ function Prices(){
                     <h3>$75 per person with 50% deposit</h3>
                     <h3>Minimum of 3 people</h3>
                     <h3>1 hour session, 1 outfit, 1 location</h3>
-                    <h3>15+ fully edited photos</h3>
+                    <h3>Gallery of edited photos!</h3>
                 </div>
             </div>
             <div className="packagesContainer">
@@ -54,13 +54,13 @@ function Prices(){
                     <h2>MINI PACKAGE</h2>
                     <h3>$150 with 50% deposit</h3>
                     <h3>30 minute session, 1 outfit, 1 location</h3>
-                    <h3>10+ fully edited photos</h3>
+                    <h3>Gallery of edited photos!</h3>
                 </div>
                 <div className="package">
                     <h2>STANDARD PACKAGE</h2>
                     <h3>$250 with 50% deposit</h3>
                     <h3>1 hour session, 2 outfits, 1 location</h3>
-                    <h3>15+ fully edited photos</h3>
+                    <h3>Gallery of edited photos!</h3>
                 </div>
             </div>
             <div className="packagesContainer">
