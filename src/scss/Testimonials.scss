@@ -118,9 +118,13 @@
                         line-height: 150%;
                         opacity: 1;
                     }
-                    .prevButton{
+                    .buttons{
                         position: absolute;
-                        left: -5px;
+                        display: flex;
+                        justify-content: space-between;
+                        width: 90vw;
+                    }
+                    .prevButton{
                         font-size: 60px;
                         top: auto;
                         color: pink;
@@ -129,8 +133,6 @@
                         opacity: 0.8;
                     }
                     .nextButton{
-                        position: absolute;
-                        right: -5px;
                         font-size: 60px;
                         color: pink;
                         top: auto;

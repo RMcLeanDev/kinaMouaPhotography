@@ -104,10 +104,12 @@ function Testimonials(){
                 <div className="testimonialContainer">
                     <img src={images[count]} alt=""/>
                     <div className="satatement">
-                        <button onClick={prevPhoto} className="prevButton">&#x2039;</button>
                         <h2>{comment[count]}</h2>
                         <h2>{name[count]}</h2>
-                        <button onClick={nextPhoto} className="nextButton">&#x203A;</button>
+                        <div className="buttons">
+                            <button onClick={prevPhoto} className="prevButton">&#x2039;</button>
+                            <button onClick={nextPhoto} className="nextButton">&#x203A;</button>
+                        </div>
                     </div>
                 </div>
             </div>
