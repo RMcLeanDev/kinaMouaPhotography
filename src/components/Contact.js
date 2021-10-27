@@ -13,7 +13,7 @@ function Contact(){
     
         emailjs.sendForm(process.env.REACT_APP_EMAILJS_SERVICE_ID, 'template_g2z8q1p', form.current, process.env.REACT_APP_EMAILJS)
           .then((result) => {
-            setAlert(<h1>Thank you for submitting your testimonial!</h1>)
+            setAlert(<h1>Thank you for your inquiry! I will reach out to you ASAP!</h1>)
         }, (error) => {
             setAlert(<p>{error.text}</p>)
         });
